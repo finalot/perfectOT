@@ -1,0 +1,157 @@
+# Created by https://www.gitignore.io/api/java,maven,eclipse
+# Edit at https://www.gitignore.io/?templates=java,maven,eclipse
+
+### Eclipse ###
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+target/
+META-INF/ 
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# PyDev specific (Python IDE for Eclipse)
+*.pydevproject
+
+# CDT-specific (C/C++ Development Tooling)
+.cproject
+
+# CDT- autotools
+.autotools
+
+# Java annotation processor (APT)
+.factorypath
+
+# PDT-specific (PHP Development Tools)
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# Tern plugin
+.tern-project
+
+# TeXlipse plugin
+.texlipse
+
+# STS (Spring Tool Suite)
+.springBeans
+
+# Code Recommenders
+.recommenders/
+
+# Annotation Processing
+.apt_generated/
+
+# Scala IDE specific (Scala & Java development for Eclipse)
+.cache-main
+.scala_dependencies
+.worksheet
+
+### Eclipse Patch ###
+# Eclipse Core
+.project
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# Annotation Processing
+.apt_generated
+
+.sts4-cache/
+
+### Java ###
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+### Maven ###
+
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+.flattened-pom.xml
+
+# End of https://www.gitignore.io/api/java,maven,eclipse
+.classpath
+<<<<<<< HEAD
+.classpath
+.classpath
+.classpath
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+.settings/org.eclipse.wst.common.component
+.settings/org.eclipse.wst.common.project.facet.core.xml
+.settings/org.eclipse.wst.validation.prefs
+.settings/org.springframework.ide.eclipse.beans.core.prefs
+.settings/org.springframework.ide.eclipse.core.prefs
+.springBeans
+pom.xml
+src/main/webapp/resources/fonts/ionicons-2.0.1/src/mouse.svg
+src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml
+src/main/webapp/WEB-INF/views/admin/.project
+src/main/webapp/WEB-INF/views/admin/.settings/.jsdtscope
+src/main/webapp/WEB-INF/web.xml
+src/test/resources/log4j.xml
+target/classes/log4j.xml
+target/classes/mappers/board-mapper.xml
+target/classes/mappers/member-mapper.xml
+target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
+target/m2e-wtp/web-resources/META-INF/maven/com.kh/ot/pom.xml
+target/test-classes/log4j.xml
+.classpath
+.classpath
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+*.prefs
+*.prefs
+=======
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.wst.common.component
+.settings/org.eclipse.wst.common.project.facet.core.xml
+.settings/org.eclipse.wst.validation.prefs
+target/classes/com/kh/ot/HomeController.class
+target/classes/mappers/board-mapper.xml
+target/classes/mappers/member-mapper.xml
+target/classes/mybatis-config.xml
+target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
+>>>>>>> d5d3cc284950225222681a81771112d9d11be139
+.classpath
